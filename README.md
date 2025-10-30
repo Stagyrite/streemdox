@@ -1,7 +1,7 @@
 # Streem documentation project
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/matz/streem?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://github.com/matz/streem/workflows/ci/badge.svg)](https://github.com/Stagyrite/streemdox/actions?query=workflow%3Aci)
+[![pages-build-deployment](https://github.com/Stagyrite/streemdox/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Stagyrite/streemdox/actions/workflows/pages/pages-build-deployment)
 
 [Streem](https://github.com/matz/streem "matz/streem: prototype of stream based programming language")
 is a prototype of stream-based programming language.
