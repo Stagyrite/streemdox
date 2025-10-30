@@ -1,0 +1,11 @@
+# Input:
+# HELLO,
+# @stagyrite
+# 🐍
+
+stdin & seq(3) | stdout
+
+# Output:
+# ["HELLO,", 1]
+# ["@stagyrite", 2]
+# ["🐍", 3]

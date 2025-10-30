@@ -1,0 +1,9 @@
+hobbies = ["yoga", "Tai Chi", "Qigong", "foreign languages", "Streem"]
+hobbies | stdout
+
+# Output:
+# yoga
+# Tai Chi
+# Qigong
+# foreign languages
+# Streem

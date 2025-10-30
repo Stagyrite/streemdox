@@ -1,0 +1,7 @@
+array = [100, 200, 300, 400, 500]
+predicate = filter { x -> x > 300 }
+array | predicate | stdout
+
+# Output:
+# 400
+# 500

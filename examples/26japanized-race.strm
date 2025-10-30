@@ -1,0 +1,7 @@
+db = kvs()
+db.put("race", "goblin 👺")
+japanize = { s -> "Japanese " + s }
+db.update("race", japanize)
+race = db.get("race")
+print(race)
+# Output: Japanese goblin 👺

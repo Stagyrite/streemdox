@@ -1,0 +1,2 @@
+graph = graph_bar()
+seq(250) | graph

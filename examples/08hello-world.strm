@@ -1,0 +1,5 @@
+# Output: HELLO, world
+
+name = "world"
+s = "HELLO, " + name
+[s] | stdout

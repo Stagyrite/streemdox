@@ -1,0 +1,6 @@
+seq(3) | stdout
+
+# Output:
+# 1
+# 2
+# 3

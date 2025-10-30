@@ -1,0 +1,8 @@
+print("HELLO, grammar")
+# Output:
+# NODES:
+#  CALL:
+#    print
+#    ARRAY:
+#     VALUE(STRING): "HELLO, shell"
+# HELLO, grammar

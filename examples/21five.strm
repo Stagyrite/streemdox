@@ -1,0 +1,15 @@
+# Input:
+# 2
+# 2
+# 2
+# 3
+# 2
+
+stdin | each { x -> puts(number(x) == 3) }
+
+# Output:
+# false
+# false
+# false
+# true
+# false

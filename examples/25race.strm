@@ -1,0 +1,5 @@
+db = kvs()
+db.put("race", "goblin")
+race = db.get("race")
+print(race)
+# Output: goblin

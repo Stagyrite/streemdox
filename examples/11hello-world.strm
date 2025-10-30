@@ -1,0 +1,7 @@
+# Output: HELLO, world
+hello = { name ->
+	"HELLO, " + name
+}
+
+s = hello("world")
+print(s)

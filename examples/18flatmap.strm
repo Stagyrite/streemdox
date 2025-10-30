@@ -1,0 +1,9 @@
+matrix = [[1, 2], [3, 4]]
+identity = { x -> x }
+matrix | flatmap(identity) | stdout
+
+# Output:
+# 1
+# 2
+# 3
+# 4
