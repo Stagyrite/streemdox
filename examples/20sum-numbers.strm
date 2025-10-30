@@ -1,0 +1,3 @@
+# Output: 1275
+
+seq(50) | reduce { x, y -> x + y } | stdout

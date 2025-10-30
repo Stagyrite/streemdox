@@ -1,0 +1,12 @@
+# Output:
+# There can be only one
+# There can be only one.
+
+namespace highlander {
+	tagline = "There can be only one"
+	taglineDot = () -> { tagline + "." }
+}
+
+import highlander
+print(tagline)
+print(taglineDot())

@@ -1,0 +1,6 @@
+x = ["HELLO,", "world"]
+x | stdout
+
+# Output:
+# HELLO,
+# world

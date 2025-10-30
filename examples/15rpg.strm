@@ -1,0 +1,8 @@
+# Output: 19
+
+class player {
+	hp = 19
+}
+
+import player
+[hp] | stdout

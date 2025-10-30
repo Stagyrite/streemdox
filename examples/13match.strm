@@ -1,0 +1,22 @@
+# Input:
+# elephant
+# cat
+# dog
+# kitty
+
+matches = {
+    case "kitty", "cat"   -> true  # match
+    case "cat", "kitty"   -> true  # match
+    case "doggie", "dog"  -> true  # match
+    case "dog", "doggie"  -> true  # match
+    case x, x             -> true  # identical
+	case _, _             -> false # no match
+}
+
+stdin | map { x -> matches("cat", x) } | stdout
+
+# Output:
+# false
+# true
+# false
+# true

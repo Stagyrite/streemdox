@@ -1,0 +1,12 @@
+# Output: Two
+x = 2
+
+if (x == 1) {
+  s = "One"
+} else if (x == 2) {
+  s = "Two"
+} else {
+  s = "Unknown"
+}
+
+[s] | stdout

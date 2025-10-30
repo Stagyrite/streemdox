@@ -1,0 +1,3 @@
+# Output: HELLO, world
+s = "HELLO, world"
+puts(s)

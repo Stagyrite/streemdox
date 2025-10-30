@@ -1,0 +1,11 @@
+data = csv()
+["integer,string,string,time,time"] | data
+stream = fread("24medicines.csv") | data
+stream | stdout
+
+# Output:
+# ["integer", "string", "string", "time", "time"]
+# [integer:"integer", string:"social security number", string:"medicine", time:"start date", time:"end date"]
+# ["1", "01010111111", "vitamin bears", "20250822", "20251128"]
+# ["2", "22020222222", "fluoride tablets", "20250111", ""]
+# ["3", "01010111111", "cod liver oil", "20250601", "20250630"]

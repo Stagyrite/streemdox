@@ -1,0 +1,4 @@
+# Output: HELLO
+hello = () -> { "HELLO" }
+s = hello()
+print(s)

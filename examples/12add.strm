@@ -1,0 +1,15 @@
+add = (x, y) -> x + y
+addz = (x, y, z) -> {
+	xy = add(x, y)
+	add(xy, z)
+}
+
+a = 123456789
+b = 987654321
+
+puts(add(a, b))
+puts(addz(a, b, 1))
+
+# Output:
+# 1111111110
+# 1111111111

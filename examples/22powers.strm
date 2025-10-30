@@ -1,0 +1,21 @@
+powers = { x ->
+  pow2 = x * x
+  pow3 = pow2 * x
+  pow4 = pow3 * x
+  emit(pow2)
+  emit(pow3)
+  emit(pow4)
+}
+
+[4, 5, 6] | each(powers) | stdout
+
+# Output:
+# 16
+# 64
+# 256
+# 25
+# 125
+# 625
+# 36
+# 216
+# 1296

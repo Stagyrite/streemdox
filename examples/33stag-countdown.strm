@@ -1,0 +1,2 @@
+graph = graph_bar()
+[3, 2, 1, 0] | graph
