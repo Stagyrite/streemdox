@@ -23,21 +23,15 @@ and more.
 1. [key-value store](library/kvs.md)
 2. [comma-separated value (CSV)](library/csv.md)
 
-## ASCII picture
+## Eclipse of Streem
 
+```ruby
+["🌕🌑", "Streem by example"] | stdout
+
+# Output:
+# 🌕🌑
+# Streem by example
 ```
- _________________________________________
-/   -_-/    ,                             \
-|  (_ /    ||                             |
-| (_ --_  =||= ,._-_  _-_   _-_  \\/\\/\\ |
-|   --_ )  ||   ||   || \\ || \\ || || || |
-|  _/  ))  ||   ||   ||/   ||/   || || || |
-\ (_-_-    \\,  \\,  \\,/  \\,/  \\ \\ \\ /
- -----------------------------------------
-   \   ^__^                     (__)   /
-    \  (..)\_______             (oo)  /
-       (__)\       )\/\   /------\/
-           ||----w |     / |    ||
-           ||     |     *  /\---/\
-           ~~    ~~        ~~   ~~
-```
+
+* Streem by example
+* GitLab: [GitLab/terroratorium/eclipseofstreem](https://gitlab.com/terroratorium/eclipseofstreem)
