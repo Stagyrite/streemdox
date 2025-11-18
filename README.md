@@ -23,15 +23,10 @@ and more.
 1. [key-value store](library/kvs.md)
 2. [comma-separated value (CSV)](library/csv.md)
 
-## Eclipse of Streem
+### Eclipse of Streem
 
-```ruby
-["🌕🌑", "Streem by example"] | stdout
-
-# Output:
-# 🌕🌑
-# Streem by example
-```
+![luna](https://gitlab.com/uploads/-/system/project/avatar/74263988/luna.png?width=80)
 
 * Streem by example
-* GitLab: [GitLab/terroratorium/eclipseofstreem](https://gitlab.com/terroratorium/eclipseofstreem)
+* Gitter: [#streem](https://gitter.im/matz/streem?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter &#124; matz/streem")
+* GitLab: [GitLab/terroratorium/eclipseofstreem](https://gitlab.com/terroratorium/eclipseofstreem "Maciej Matiaszowski / eclipseofstreem · GitLab")
