@@ -1,6 +1,6 @@
 # Math library
 
-Streem standard library contains build-in functions that correspond
+Streem standard library contains built-in functions that correspond
 to the C standard.
 
 ## Constant values
@@ -25,49 +25,49 @@ print(E)
 
 ## Number-theoretic and representation functions
 
-### ceil(x)
+### ceil(x) - ceiling function
 
-Return the ceiling of x.
+Computes the smallest number not less than x.
 
 ```
 # Output: 46
 print(ceil(45.54))
 ```
 
-### fabs(x)
+### fabs(x) - absolute function
 
-Return the absolute value of x.
+Computes the absolute value of x.
 
 ```
 # Output: 2
 print(fabs(-2))
 ```
 
-### gcd(x, y)
+### gcd(x, y) - greatest common divisor function
 
-Return the greatest common divisor of the x and y. Note x and y must be integers.
+Computes the greatest common divisor of the integers x and y.
 
 ```
 Output: 2
 print(gcd(4,10))
 ```
 
-### trunc(x)
+### trunc(x) - truncation function
 
-Return the Real value x truncated to an Integral.
+Computes the real value x truncated to an integer.
 
 ```
 Output: 9
 print(trunc(9.13))
 ```
 
-### int(x)
+### int(x) - alias for the truncation function
 
 Same as trunc(x).
 
-### floor(x)
+### floor(x) - floor function
 
-Return the floor of x.
+Computes the largest number not greater than x.
 
 ```
 # Output: 2
