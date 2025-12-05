@@ -37,6 +37,6 @@ print("HELLO, grammar")
 #  CALL:
 #    print
 #    ARRAY:
-#     VALUE(STRING): "HELLO, shell"
+#     VALUE(STRING): "HELLO, grammar"
 # HELLO, grammar
 ```
