@@ -25,8 +25,8 @@ and more.
 
 ### Eclipse of Streem
 
-![luna](https://gitlab.com/uploads/-/system/project/avatar/74263988/luna.png?width=80)
+![eclipse](eclipse.png)
 
 * Streem by example
-* Gitter: [#streem](https://gitter.im/matz/streem?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter &#124; matz/streem")
+* Gitter: [#kassette](https://matrix.to/#/#kassette:gitter.im "Gitter &#124; Kassette")
 * GitLab: [GitLab/terroratorium/eclipseofstreem](https://gitlab.com/terroratorium/eclipseofstreem "Maciej Matiaszowski / eclipseofstreem · GitLab")
