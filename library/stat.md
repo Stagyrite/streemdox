@@ -40,5 +40,5 @@ It computes both the mean value and the standard deviation of the same input num
 
 ### correl() - correlation coefficient
 
-It computes the correlation coefficient based on the given input stream. For instance, `seq(10) & seq(10) | correl() | stdout` outputs `. Changing the input stream to `seq(10) & [5,4,3,2,1,5,4,3,2,1]` changes the output to -0.49236596391733.
+It computes the correlation coefficient based on the given input stream. For instance, `seq(10) & seq(10) | correl() | stdout` outputs just 1. Changing the input stream to `seq(10) & [5,4,3,2,1,5,4,3,2,1]` changes the output to -0.49236596391733.
 

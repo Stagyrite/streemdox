@@ -1,4 +1,4 @@
-# Streem documentation project
+<# Streem documentation project
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/matz/streem?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![pages-build-deployment](https://github.com/Stagyrite/streemdox/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Stagyrite/streemdox/actions/workflows/pages/pages-build-deployment)
@@ -32,7 +32,7 @@ and more.
 * Streem by example
 * Gitter: [#kassette](https://matrix.to/#/#kassette:gitter.im "Gitter &#124; Kassette")
 * Project Page: [Stagyrite.GitHub.io/streemdox](https://stagyrite.github.io/streemdox "Streem documentation project &#124; Streemdox")
-* GitHub: [GitHub/Stagyrite/streemdox](https://github.com/Stagyrite/streemdox "Stagyrite/streemdox: 🦬 Streem documentation project")
-* GitLab: [GitLab/terroratorium/eclipseofstreem](https://gitlab.com/terroratorium/eclipseofstreem "Maciej Matiaszowski / eclipseofstreem · GitLab")
+* GitHub: [Stagyrite/streemdox](https://github.com/Stagyrite/streemdox "Stagyrite/streemdox: 🦬 Streem documentation project")
+* GitLab: [terroratorium/eclipseofstreem](https://gitlab.com/terroratorium/eclipseofstreem "Maciej Matiaszowski / eclipseofstreem · GitLab")
 
 🌊☀️🏝️🐚
